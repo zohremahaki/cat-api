@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ComponentName = () => {
+const Login = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const ComponentName = () => {
   );
 };
 
-export default ComponentName;
+export default Login;

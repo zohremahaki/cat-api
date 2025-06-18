@@ -1,11 +1,5 @@
-import React from 'react';
-
-const ComponentName = () => {
-  return (
-    <div>
-      
-    </div>
-  );
+const Mainheader = () => {
+  return <div></div>;
 };
 
-export default ComponentName;
+export default Mainheader;
